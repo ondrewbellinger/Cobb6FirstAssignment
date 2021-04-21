@@ -1,0 +1,10 @@
+1. What is your name?
+Ondrew Bellinger
+2. What is your favorite color?
+Black
+3. What is your favorite thing to do? (other than being in my class? lol)
+Write Music
+4. What is your GitHub username?
+ondrewbellinger
+5. What is the link to the repository for this project?
+https://github.com/ondrewbellinger/Cobb6FirstAssignment.git
